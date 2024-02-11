@@ -1,0 +1,13 @@
+
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ðí­Âùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰Üø¼øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(çÊüËùÿÿÿÿ
+7	java:S1310""Add a default case to this switch.(øÆ½ñ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(›öÔß
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(Øçú¨
+Q	java:S125Z"<This block of commented-out lines of code should be removed.(ùßâ™
+Q	java:S125f"<This block of commented-out lines of code should be removed.(ùßâ™
+Q	java:S125q"<This block of commented-out lines of code should be removed.(ùßâ™
+l
+java:S1192"ODefine a constant instead of duplicating this literal "MessagesBundle" 5 times.(•Ë¬8¦›´Ìþ/

@@ -1,0 +1,19 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(æß‚s
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Ä¶Å—
+V
+java:S1612'"@Replace this lambda with method reference 'String::toUpperCase'.(¬‰ËŞ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ÑÉæôøÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Ö´´¶ıÿÿÿÿ
+[
+java:S1612I"@Replace this lambda with method reference 'String::toUpperCase'.(îİ¯ÿûÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(òí‰¹
+[
+java:S1612P"@Replace this lambda with method reference 'String::toUpperCase'.(îİ¯ÿûÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(œª´
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(¼’°Çøÿÿÿÿ
+V	java:S125`"<This block of commented-out lines of code should be removed.(îƒáùÿÿÿÿ
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(ÊíÑÂ
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(Ï­Ï…ÿÿÿÿÿ
+c
+java:S1192#"HDefine a constant instead of duplicating this literal "Charlie" 3 times.(«èÖşÿÿÿÿ

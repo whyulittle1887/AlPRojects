@@ -1,0 +1,36 @@
+
+Z
+java:S1659
+"EDeclare "GENERICS" and all following declarations on a separate line.(”žÝ
+Q	java:S125"<This block of commented-out lines of code should be removed.(œî÷Â
+a
+java:S1612"FReplace this lambda with method reference 'CodeOneSample::userChoice'.(»¤÷¦ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(î‡ó©ùÿÿÿÿ
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(»ø¿H
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Ñ²–×þÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(öÏ’Çûÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(èý‘Ò
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ýüÓÆûÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(¦ÛÏôÿÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(Ø“—¸
+V
+java:S1612B"@Replace this lambda with method reference 'System.out::println'.(·—ÙÆ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(·—ÙÆ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ÍÍ×–üÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(êãÚþÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ÙìÛÈ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(¼‡Ã¿üÿÿÿÿ
+V
+java:S1612V"@Replace this lambda with method reference 'System.out::println'.(·—ÙÆ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(·—ÙÆ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(Ù‘ê•úÿÿÿÿ
+N
+java:S1612Z"8Replace this lambda with method reference 'Dog::getAge'.(üôéÔ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(—ü»ßüÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(„²ÎËþÿÿÿÿ
+M	java:S106d"9Replace this use of System.out or System.err by a logger.(íüœ-
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(ÿ³ãæúÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(„É¤øÿÿÿÿ
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(èüö
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(™¬Ç•8Ù·Éñ/
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(Êèéäøÿÿÿÿ8ÿâÉñ/

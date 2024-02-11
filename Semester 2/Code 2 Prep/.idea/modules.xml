@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Code 2 Prep.iml" filepath="$PROJECT_DIR$/.idea/Code 2 Prep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Localization/Localization.iml" filepath="$PROJECT_DIR$/Localization/Localization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Localization2/Localization2.iml" filepath="$PROJECT_DIR$/Localization2/Localization2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week10Localization/Week10Localization.iml" filepath="$PROJECT_DIR$/Week10Localization/Week10Localization.iml" />
+    </modules>
+  </component>
+</project>

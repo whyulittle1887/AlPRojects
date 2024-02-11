@@ -1,0 +1,7 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²÷ùÁ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÚÏÙþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+}
+java:S1319"gThe type of "devices" should be an interface such as "List" rather than the implementation "ArrayList".(°³¼Ô
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø²Íƒ

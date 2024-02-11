@@ -1,0 +1,39 @@
+
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÍõÏú
+^
+java:S1659"HDeclare "DATES_TIMES" and all following declarations on a separate line.(Óîû¡
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(î‡ó©ùÿÿÿÿ
+M	java:S106$"9Replace this use of System.out or System.err by a logger.(»ø¿H
+]
+java:S18543"ARemove this useless assignment to local variable "currentLocale".(ƒ—£98ØÖœÍþ/
+Q	java:S125/"<This block of commented-out lines of code should be removed.(åÉ—ó
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(¢Êßõÿÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(ÄÿàÄ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ÚÓÎºüÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(Ú‡ùÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(¤ÌÑþ
+V	java:S125["<This block of commented-out lines of code should be removed.(¥þÿÎúÿÿÿÿ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(Ðì°š
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(“öóÑ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(‚¸šþÿÿÿÿ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(½Ä¸‰
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(âéÖýÿÿÿÿ
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(š¼ËÒ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(ÛÛŽéúÿÿÿÿ
+R	java:S125Ž"<This block of commented-out lines of code should be removed.(¹Ô©’
+W
+java:S1612’";Replace this lambda with method reference 'Book::getPrice'.(ÂÎÖöþÿÿÿÿ
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(Á ¦Íùÿÿÿÿ
+W
+java:S1612›";Replace this lambda with method reference 'Book::getTitle'.(¼Ü¿–ûÿÿÿÿ
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(ûŒ¦Ëúÿÿÿÿ
+T	java:S106¡"9Replace this use of System.out or System.err by a logger.(”åòÏúÿÿÿÿ
+T	java:S106¢"9Replace this use of System.out or System.err by a logger.(„šÞþÿÿÿÿ
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(±´éÝ
+O	java:S106¤"9Replace this use of System.out or System.err by a logger.(™¬Ç•
+T	java:S106¥"9Replace this use of System.out or System.err by a logger.(Êèéäøÿÿÿÿ
+l
+java:S1192~"QDefine a constant instead of duplicating this literal "Computer Science" 5 times.(Æî»Øûÿÿÿÿ
+b	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÀÛÚÙ

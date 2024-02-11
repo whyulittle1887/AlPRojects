@@ -1,0 +1,24 @@
+
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÍõÏú8Éıèœø/
+a
+java:S1659"DDeclare "STREAMS" and all following declarations on a separate line.(­•œ8äıèœø/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(î‡ó©ùÿÿÿÿ8ôıèœø/
+T	java:S106$"9Replace this use of System.out or System.err by a logger.(»ø¿H8õıèœø/
+U	java:S106="9Replace this use of System.out or System.err by a logger.(‚›Òİ8úıèœø/
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(šÿÚ8„şèœø/
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(üÎé8†şèœø/
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(—Š¦‘ûÿÿÿÿ8†şèœø/
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(‡ƒÑƒøÿÿÿÿ8†şèœø/
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(ŸéÉ‚8†şèœø/
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(½ªÂ˜8‡şèœø/
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(²©íÇıÿÿÿÿ8‡şèœø/
+X
+java:S1612z";Replace this lambda with method reference 'Person::getAge'.(‹¯ğ¦8Šşèœø/
+]	java:S125{"<This block of commented-out lines of code should be removed.(¸®ñ‡øÿÿÿÿ8‹şèœø/
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(™ˆì8Œşèœø/
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(ûŒ¦Ëúÿÿÿÿ8Œşèœø/
+[	java:S106Š"9Replace this use of System.out or System.err by a logger.(½ã«›şÿÿÿÿ8Œşèœø/
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(ä¨ûçøÿÿÿÿ8şèœø/
+V	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ù÷Ç÷8şèœø/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Êèéäøÿÿÿÿ8şèœø/

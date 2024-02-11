@@ -1,0 +1,38 @@
+
+Z
+java:S1659
+"EDeclare "GENERICS" and all following declarations on a separate line.(”İ
+Q	java:S125"<This block of commented-out lines of code should be removed.(œî÷Â
+a
+java:S1612"FReplace this lambda with method reference 'CodeOneSample::userChoice'.(»¤÷¦ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(î‡ó©ùÿÿÿÿ
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(»ø¿H
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(íüœ-
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÿ³ãæúÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(„É¤øÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(èüö
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(™¬Ç•
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Êèéäøÿÿÿÿ
+T
+java:S1612;"9Replace this lambda with method reference 'Lion::getAge'.(»®­—úÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(´şşÿÿÿÿ
+M	java:S106?"9Replace this use of System.out or System.err by a logger.(êİ–
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(‰º´¼şÿÿÿÿ
+W
+java:S1612B"<Replace this lambda with method reference 'Lion::getGender'.(¢š™€øÿÿÿÿ
+[
+java:S1612C"@Replace this lambda with method reference 'System.out::println'.(ÇèÀÙûÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ÇèÀÙûÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ÕÖ¾Øıÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(–¼š¡
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(Ùö¢…
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ÄÆœÏûÿÿÿÿ
+[
+java:S1612]"@Replace this lambda with method reference 'System.out::println'.(¼º¬Êüÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(¼º¬Êüÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(×–êˆÿÿÿÿÿ
+[
+java:S1612a"@Replace this lambda with method reference 'System.out::println'.(¡şÏ©şÿÿÿÿ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(¡şÏ©şÿÿÿÿ
+b
+java:S11927"GDefine a constant instead of duplicating this literal "Female" 5 times.(£ÏÓ²şÿÿÿÿ

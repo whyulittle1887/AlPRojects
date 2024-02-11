@@ -1,0 +1,30 @@
+
+c
+java:S4488&"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÿä°¹ıÿÿÿÿ
+[
+java:S4684-"@Replace this persistent entity with a simple POJO or DTO object.(»®Æüùÿÿÿÿ
+_
+java:S4488,"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(®öÌb
+V
+java:S4684>"@Replace this persistent entity with a simple POJO or DTO object.(¨ÌíÓ
+^
+java:S4488="HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ÏÛŞ
+Q	java:S1254"<This block of commented-out lines of code should be removed.(ÂÂË®
+i
+java:S4488L"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(ïÑŸèÿÿÿÿÿ
+?
+java:S1128")Remove this unused import 'java.net.URI'.(Ö¦¨°
+N
+java:S1128"3Remove this unused import 'javax.validation.Valid'.(æ¤ñ÷úÿÿÿÿ
+k
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ
+v
+java:S1128"`Remove this unused import 'org.springframework.web.servlet.support.ServletUriComponentsBuilder'.(™ƒ¹
+t
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(«Ôê®øÿÿÿÿ
+z
+java:S1488F"dImmediately return this expression instead of assigning it to the temporary variable "savedProduct".(Ç¨’¦
+Y
+java:S3655Q">Call "optionalProduct.isPresent()" before accessing the value.(¹ö¹ÿÿÿÿÿ
+Y
+java:S3655B">Call "optionalProduct.isPresent()" before accessing the value.(¹ö¹ÿÿÿÿÿ

@@ -1,0 +1,25 @@
+
+a
+java:S1659"EDeclare "GENERICS" and all following declarations on a separate line.(Š›Ñ 8üâî³ó/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(î‡ó©ùÿÿÿÿ8þâî³ó/
+T	java:S106$"9Replace this use of System.out or System.err by a logger.(»ø¿H8þâî³ó/
+]	java:S1251"<This block of commented-out lines of code should be removed.(µ­Çþÿÿÿÿ8ÿâî³ó/
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(Ö˜Íóúÿÿÿÿ8€ãî³ó/
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(¬ªß‘8ãî³ó/
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ù÷ªûÿÿÿÿ8ãî³ó/
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(ËˆïÂ8‘ãî³ó/
+]	java:S125G"<This block of commented-out lines of code should be removed.(½§ááýÿÿÿÿ8”ãî³ó/
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(õèªíøÿÿÿÿ8•ãî³ó/
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(‰â¹ýÿÿÿÿ8–ãî³ó/
+]	java:S125e"<This block of commented-out lines of code should be removed.(îÔîßýÿÿÿÿ8ãî³ó/
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(ÄšœØúÿÿÿÿ8žãî³ó/
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(Öú“½øÿÿÿÿ8Ÿãî³ó/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ûŒ¦Ëúÿÿÿÿ8Ÿãî³ó/
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(Ð¥ö™ûÿÿÿÿ8 ãî³ó/
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(„É¤øÿÿÿÿ8 ãî³ó/
+U	java:S106„"9Replace this use of System.out or System.err by a logger.(Å Â8 ãî³ó/
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(™¬Ç•8¡ãî³ó/
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(Êèéäøÿÿÿÿ8¡ãî³ó/
+h
+java:S11928"FDefine a constant instead of duplicating this literal "White" 4 times.(Ö˜Íóúÿÿÿÿ8¢ãî³ó/
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(—­µŽ8¢ãî³ó/

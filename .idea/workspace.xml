@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f5ed582-a4ea-4f51-9d3c-1a169e963178" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MicroServicesAssignment/Samples/wine-app/src/main/java/edu/tus/microservices/wine/exception/WineException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MicroServicesAssignment/Samples/wine-app/src/main/java/edu/tus/microservices/wine/exception/WineNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MicroServicesAssignment/Samples/wine-app/src/main/java/edu/tus/microservices/wine/exception/WineValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MicroServicesAssignment/Samples/wine-app/src/main/java/edu/tus/microservices/wine/validation/ErrorMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MicroServicesAssignment/Samples/wine-app/src/main/java/edu/tus/microservices/wine/validation/ErrorMessages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MicroServicesAssignment/Samples/wine-app/src/main/java/edu/tus/microservices/wine/validation/WineValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MicroServicesAssignment/SpringCloudConfig/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/edu/tus/microservices/sprint1/clubs/config/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringHelloWorld2/sonar-project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DepositPractice/src/com/example/AbstractBankingMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/DepositPractice/src/com/example/AbstractBankingMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DepositPractice/src/com/example/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/DepositPractice/src/com/example/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DepositPractice/src/com/example/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/DepositPractice/src/com/example/CheckingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DepositPractice/src/com/example/TimeDepositAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/DepositPractice/src/com/example/TimeDepositAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeePractice/out/production/EmployeePractice/com/example/EmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeePractice/out/production/EmployeePractice/com/example/EmployeeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeePractice/out/production/EmployeePractice/com/example/business/EmployeeStockPlan.class" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeePractice/out/production/EmployeePractice/com/example/business/EmployeeStockPlan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeePractice/out/production/EmployeePractice/com/example/domain/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeePractice/out/production/EmployeePractice/com/example/domain/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeePractice/out/production/EmployeePractice/com/example/domain/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeePractice/out/production/EmployeePractice/com/example/domain/Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeePractice/out/production/EmployeePractice/com/example/domain/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeePractice/out/production/EmployeePractice/com/example/domain/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeePractice/out/production/EmployeePractice/com/example/domain/Engineer.class" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeePractice/out/production/EmployeePractice/com/example/domain/Engineer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeePractice/out/production/EmployeePractice/com/example/domain/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeePractice/out/production/EmployeePractice/com/example/domain/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeePractice/src/com/example/domain/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeePractice/src/com/example/domain/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeePractice/src/com/example/domain/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeePractice/src/com/example/domain/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmployeePractice/src/com/example/domain/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/EmployeePractice/src/com/example/domain/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/AuthenticationServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/AuthenticationServer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/AuthenticationServer/src/main/java/com/example/authenticationserver/AuthenticationServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/AuthenticationServer/src/main/java/edu/tus/microservices/sprint1/authenticationserver/AuthenticationServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/AuthenticationServer/src/main/java/com/example/authenticationserver/security/JWTOAuth2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/AuthenticationServer/src/main/java/edu/tus/microservices/sprint1/authenticationserver/security/JWTOAuth2Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/AuthenticationServer/src/main/java/com/example/authenticationserver/security/JWTTokenStoreConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/AuthenticationServer/src/main/java/edu/tus/microservices/sprint1/authenticationserver/security/JWTTokenStoreConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/AuthenticationServer/src/main/java/com/example/authenticationserver/security/WebSecurityConfigurer.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/AuthenticationServer/src/main/java/edu/tus/microservices/sprint1/authenticationserver/security/WebSecurityConfigurer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/AuthenticationServer/src/test/java/com/example/authenticationserver/AuthenticationServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/AuthenticationServer/src/test/java/edu/tus/microservices/sprint1/authenticationserver/AuthenticationServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/EurekaDiscoveryService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/EurekaDiscoveryService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/EurekaDiscoveryService/src/main/java/edu/tus/microservices/discoveryservice/DiscoveryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/EurekaDiscoveryService/src/main/java/edu/tus/microservices/sprint1/discoveryservice/DiscoveryServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/EurekaDiscoveryService/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/EurekaDiscoveryService/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/EurekaDiscoveryService/src/main/resources/old-application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/Samples/wine-app/src/main/java/edu/tus/microservices/wine/controllers/v1/WineService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/Samples/wine-app/src/main/java/edu/tus/microservices/wine/controllers/v1/WineService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/Samples/wine-app/src/main/java/edu/tus/microservices/wine/dao/Wine.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/Samples/wine-app/src/main/java/edu/tus/microservices/wine/dao/Wine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/Samples/wine-app/src/main/java/edu/tus/microservices/wine/exceptions/WineNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/Samples/wine-app/src/main/java/edu/tus/microservices/wine/repositories/WineRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/Samples/wine-app/src/main/java/edu/tus/microservices/wine/repositories/WineRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/Samples/wine-app/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/Samples/wine-app/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/SpringCloudConfig/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/SpringCloudConfig/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/SpringCloudConfig/src/main/java/com/egan/springcloud/SpringCloudApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/SpringCloudConfig/src/main/java/edu/tus/microservices/sprint1/springcloud/SpringCloudApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/SpringCloudConfig/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/SpringCloudConfig/src/main/resources/old-application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/SpringCloudConfig/src/test/java/com/egan/springcloud/SpringCloudApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/SpringCloudConfig/src/test/java/edu/tus/microservices/sprint1/springcloud/SpringCloudApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/ZuulGateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/ZuulGateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/ZuulGateway/src/main/java/edu/tus/microservices/zuul/ZuulGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/ZuulGateway/src/main/java/edu/tus/microservices/sprint1/zuul/ZuulGatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/ZuulGateway/src/main/java/edu/tus/microservices/zuul/filters/LoggingPostFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/ZuulGateway/src/main/java/edu/tus/microservices/sprint1/zuul/filters/LoggingPostFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/ZuulGateway/src/main/java/edu/tus/microservices/zuul/filters/LoggingPreFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/ZuulGateway/src/main/java/edu/tus/microservices/sprint1/zuul/filters/LoggingPreFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/ZuulGateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/ZuulGateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/ZuulGateway/src/test/java/edu/tus/microservices/zuul/ZuulApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/ZuulGateway/src/test/java/edu/tus/microservices/sprint1/zuul/ZuulApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/com/loi/clubs/ClubsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/edu/tus/microservices/sprint1/clubs/ClubsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/com/loi/clubs/ServletInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/edu/tus/microservices/sprint1/clubs/ServletInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/com/loi/clubs/controllers/v1/ClubService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/edu/tus/microservices/sprint1/clubs/controllers/v1/ClubService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/com/loi/clubs/dao/Club.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/edu/tus/microservices/sprint1/clubs/dao/Club.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/com/loi/clubs/exceptions/ClubNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/edu/tus/microservices/sprint1/clubs/exceptions/ClubNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/com/loi/clubs/repositories/ClubRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/edu/tus/microservices/sprint1/clubs/repositories/ClubRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/com/loi/clubs/security/JWTTokenStoreConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/edu/tus/microservices/sprint1/clubs/security/JWTTokenStoreConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/com/loi/clubs/security/ResourceServerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/java/edu/tus/microservices/sprint1/clubs/security/ResourceServerConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/resources/old-application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/main/resources/old-application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/test/java/com/loi/clubs/ClubsApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/clubs/src/test/java/edu/tus/microservices/sprint1/clubs/ClubsApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/ServletInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/ServletInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/StatisticsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/StatisticsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/config/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/config/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/controllers/v1/ClubService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/controllers/v1/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/controllers/v1/ConfigService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/controllers/v1/PlayerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/controllers/v1/PlayerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/controllers/v1/SeasonService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/dao/Club.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/dao/Club.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/dao/EnumTypePostgreSql.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/dao/EnumTypePostgreSql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/dao/FeignClientInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/dao/FeignClientInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/dao/FormerClub.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/dao/FormerClub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/dao/LOIClubsFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/controllers/v1/LOIClubsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/dao/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/dao/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/dao/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/dao/PlayerPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/dao/PlayerPosition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/dao/Season.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/dao/Season.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/exceptions/PlayerNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/exceptions/PlayerNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/exceptions/SeasonNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/repositories/PlayerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/repositories/PlayerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/repositories/SeasonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/security/JWTTokenStoreConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/security/JWTTokenStoreConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/com/atfc/stats/security/ResourceServerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/java/edu/tus/microservices/sprint1/players/security/ResourceServerConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/resources/META-INF/additional-spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/resources/META-INF/additional-spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/resources/oldapplication.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/main/resources/oldapplication.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroServicesAssignment/players/src/test/java/com/atfc/stats/PlayersApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroServicesAssignment/players/src/test/java/edu/tus/microservices/sprint1/players/PlayersApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringHelloWorld/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringHelloWorld/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringHelloWorld2/src/main/java/com/example/springhelloworld2/SpringHelloWorld2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringHelloWorld2/src/main/java/com/example/springhelloworld2/SpringHelloWorld2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringHelloWorld2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringHelloWorld2/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellij-maven-example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/intellij-maven-example/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellij-maven-example/src/main/java/ait/course/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/intellij-maven-example/src/main/java/ait/course/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellij-maven-example/src/test/java/ait/course/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/intellij-maven-example/src/test/java/ait/course/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellij-maven-example/target/surefire-reports/TEST-ait.course.example.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/intellij-maven-example/target/surefire-reports/TEST-ait.course.example.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maven-quick-start/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/maven-quick-start/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maven-quick-start/src/main/java/ait/course/example/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/maven-quick-start/src/main/java/ait/course/example/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maven-quick-start/src/test/java/ait/course/example/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/maven-quick-start/src/test/java/ait/course/example/ApplicationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BitBucket/HelloWorld" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RqcJdojYHjIaSrmHa5VoKbB2d8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Heroku" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Heroku" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HerokuApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Heroku" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.heroku.HerokuApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f5ed582-a4ea-4f51-9d3c-1a169e963178" name="Changes" comment="" />
+      <created>1687980986926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687980986926</updated>
+      <workItem from="1687980988065" duration="151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

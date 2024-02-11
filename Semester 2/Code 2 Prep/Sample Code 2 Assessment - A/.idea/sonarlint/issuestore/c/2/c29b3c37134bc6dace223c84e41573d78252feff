@@ -1,0 +1,29 @@
+
+‚
+java:S1130
+"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÍõÏú
+^
+java:S1659"HDeclare "DATES_TIMES" and all following declarations on a separate line.(Óîû¡
+S	java:S106"9Replace this use of System.out or System.err by a logger.(î‡ó©ùÿÿÿÿ
+M	java:S106!"9Replace this use of System.out or System.err by a logger.(»ø¿H
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(Øçú¨
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ß¨òÿÿÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(—þÚ¬ûÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÞÞ¦’ùÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(›éðžûÿÿÿÿ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(ÿŒ÷Åýÿÿÿÿ
+M	java:S106q"9Replace this use of System.out or System.err by a logger.(¨Õ¢t
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(¢ÀÔÓþÿÿÿÿ
+R	java:S125†"<This block of commented-out lines of code should be removed.(ˆÈª©
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(«àÛ
+W
+java:S1612‹"@Replace this lambda with method reference 'String::toUpperCase'.(ñ»›õ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ýâ°Äþÿÿÿÿ
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(ûŒ¦Ëúÿÿÿÿ
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(”åòÏúÿÿÿÿ
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(„šÞþÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(±´éÝ
+O	java:S106™"9Replace this use of System.out or System.err by a logger.(™¬Ç•
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(Êèéäøÿÿÿÿ
+m
+java:S1192I"RDefine a constant instead of duplicating this literal "GoodMannersBundle" 3 times.(÷Â¨“ûÿÿÿÿ

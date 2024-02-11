@@ -1,0 +1,19 @@
+
+L
+java:S3740O"/Provide the parametrized type for this generic.(š€ ™8¿Šæˆõ/
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ãË®ùÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Üƒ¡ıÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(»ô˜ùÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(ú¹Ä©
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(µ¹åı8Ú—äˆõ/
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(»ô˜ùÿÿÿÿ8Ú—äˆõ/
+D
+java:S1144O".Remove this unused private "printPage" method.(š€ ™
+m
+java:S11920"KDefine a constant instead of duplicating this literal "targetDate" 3 times.(ò¡ïêùÿÿÿÿ8Û—äˆõ/
+{
+java:S1488&"`Immediately return this expression instead of assigning it to the temporary variable "taskPage".(â„ƒúıÿÿÿÿ
+x
+java:S14882"]Immediately return this expression instead of assigning it to the temporary variable "pages".(¯¸·¡ÿÿÿÿÿ
+~
+java:S1488;"\Immediately return this expression instead of assigning it to the temporary variable "page".(ãÅ±ÿÿÿÿÿ8½Şéˆõ/

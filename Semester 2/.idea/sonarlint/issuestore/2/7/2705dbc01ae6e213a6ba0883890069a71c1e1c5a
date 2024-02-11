@@ -1,0 +1,54 @@
+
+Q	java:S125 "<This block of commented-out lines of code should be removed.(Ú°à¬
+P
+java:S2209Q"5Change this instance-reference to a static reference.(¿úÓîùÿÿÿÿ
+K
+java:S2209S"5Change this instance-reference to a static reference.(ü¼ÃÛ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(â÷ºß
+K
+java:S2209U"5Change this instance-reference to a static reference.(Òþ†Ê
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(â÷ºß
+K
+java:S2209W"5Change this instance-reference to a static reference.(´¹ÈŠ
+[
+java:S1612]"@Replace this lambda with method reference 'System.out::println'.(öÃ•´þÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(öÃ•´þÿÿÿÿ
+[
+java:S1612a"@Replace this lambda with method reference 'System.out::println'.(àºÿµüÿÿÿÿ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(àºÿµüÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(Ò‰ûóùÿÿÿÿ
+g
+java:S4276o"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(áÐ™
+h
+java:S4276z"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(Ú¢—é
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ƒªà¢
+3
+java:S1116…"Remove this empty statement.(åŠ¶ñ
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(ƒªà¢
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(³ò©Ä
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(¡º¦œ
+R	java:S125"<This block of commented-out lines of code should be removed.(¶¦Ž†
+F
+java:S1611’"/Remove the parentheses around the "l" parameter(³ÄÛÎ
+O	java:S106“"9Replace this use of System.out or System.err by a logger.(Á°‡…
+p
+java:S4276•"YRefactor this code to use the more specialised Functional Interface 'IntFunction<String>'(è“ˆ¤
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(ÿü§¹úÿÿÿÿ
+W	java:S125¡"<This block of commented-out lines of code should be removed.(–éÊòùÿÿÿÿ
+W
+java:S1612¦"@Replace this lambda with method reference 'System.out::println'.(“åùÍ
+O	java:S106¦"9Replace this use of System.out or System.err by a logger.(“åùÍ
+R	java:S125©"<This block of commented-out lines of code should be removed.(ŒäŠÎ
+R	java:S125¬"<This block of commented-out lines of code should be removed.(ãœúÍ
+R
+java:S1612±";Replace this lambda with method reference 'Person::getAge'.(·Œ¬
+W
+java:S1612³"@Replace this lambda with method reference 'System.out::println'.(“åùÍ
+O	java:S106³"9Replace this use of System.out or System.err by a logger.(“åùÍ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(Á »®øÿÿÿÿ
+U
+java:S1612¼">Replace this lambda with method reference 'Person::getHeight'.(®ù›×
+W
+java:S1612¾"@Replace this lambda with method reference 'System.out::println'.(“åùÍ
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(“åùÍ
+W	java:S125À"<This block of commented-out lines of code should be removed.(Ù£š¥ýÿÿÿÿ
